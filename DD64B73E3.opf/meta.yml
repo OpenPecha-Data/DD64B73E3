@@ -1,0 +1,22 @@
+id: DD64B73E3
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-11T09:47:34+00:00'
+last_modified: '2022-05-26T12:23:04.130269+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    b9c0:
+      image_group_id: I1PD95882
+      title: དཔལ་ཕྱག་ན་རྡོ་རྗེ་ལ་བསྟོད་པ།
+      total_pages: 1379
+      order: 37
+      base_file: b9c0.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
